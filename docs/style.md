@@ -134,3 +134,7 @@ sidebar_position: 20
 :::tip
 如果你有好看的样式想要分享出来，可以点击下方的[Edit this page](https://github.com/Xhofe/alist-doc/edit/main/docs/style.md)发起pr将你的样式添加到本页面。
 :::
+###美化格式
+<link rel="stylesheet" type="text/css" href="https://file.xhto.cn/alistskin/css/alistskin.css" />
+<script type="text/javascript" src="https://file.xhto.cn/alistskin/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://file.xhto.cn/alistskin/js/alistskin.js"></script>
